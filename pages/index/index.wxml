@@ -1,0 +1,18 @@
+<!--index.wxml-->
+<view class="container">
+  <view class="aside">
+    <view class="menu" wx:for="{{menus}}">
+      <text>{{item.menu}}</text>
+    </view>
+  </view>
+  <view class="item-content">
+    <view class="box">
+      <view class="item" wx:for="{{items}}">
+        <image src="image/item-m.jpg"></image>
+        <text class="title">{{item.title}}</text>
+        <text class="price">￥ {{item.price}} 元</text>
+        <text class="btn">添加</text>
+      </view>
+    </view>
+  </view>
+</view>
