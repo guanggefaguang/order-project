@@ -15,94 +15,88 @@ Page({
     orders: true,
     menus: [{
       id: 1,
-      menu: '菜单一'
+      menu: '菜单一1'
     }, {
       id: 1,
-      menu: '菜单一'
+      menu: '菜单一1'
     }, {
       id: 1,
-      menu: '菜单一'
+      menu: '菜单一1'
     }, {
       id: 1,
-      menu: '菜单二'
+      menu: '菜单二1'
     }, {
       id: 1,
-      menu: '菜单三'
+      menu: '菜单三1'
     }, {
       id: 1,
-      menu: '菜单四'
+      menu: '菜单四1'
     }, {
       id: 1,
-      menu: '菜单五'
+      menu: '菜单五1'
     }, {
       id: 1,
-      menu: '菜单五'
+      menu: '菜单五1'
     }, {
       id: 1,
-      menu: '菜单五'
+      menu: '菜单五1'
     }, {
       id: 1,
-      menu: '菜单五'
+      menu: '菜单五1'
     }, {
       id: 1,
-      menu: '菜单五'
+      menu: '菜单五1'
     }, {
       id: 1,
-      menu: '菜单五'
+      menu: '菜单五1'
     }, {
       id: 1,
-      menu: '菜单五'
+      menu: '菜单五1'
     }, {
       id: 1,
-      menu: '菜单五'
+      menu: '菜单五1'
     }, {
       id: 1,
-      menu: '菜单五'
+      menu: '菜单五1'
     }, {
       id: 1,
-      menu: '菜单五'
+      menu: '菜单五1'
     }],
     // 商品列表
     items: [{
       id: 1,
-      title: '湖南辣椒小炒肉1',
+      title: '尖椒肉丝222222222',
       price: 12,
       active: false,
       num: 1
     }, {
       id: 2,
-      title: '湖南辣椒小炒肉2',
+      title: '红烧肉丝',
       price: 13,
       active: false,
       num: 1
     }, {
       id: 3,
-      title: '湖南辣椒小炒肉3',
+      title: '肉丝炒肉丝',
       price: 14,
       active: false,
       num: 1
     }, {
       id: 4,
-      title: '湖南辣椒小炒肉4',
+      title: '拌炒肉丝',
       price: 15,
       active: false,
       num: 1
     }, {
       id: 5,
-      title: '湖南辣椒小炒肉5',
+      title: '红里透绿',
       price: 16,
       active: false,
       num: 1
     }, {
       id: 6,
-      title: '湖南辣椒小炒肉5',
+      title: '红绿出cp',
       price: 17,
-      active: false,
-      num: 1
-    }, {
-      id: 7,
-      title: '湖南辣椒小炒肉5',
-      price: 18,
       active: false,
       num: 1
     }]
